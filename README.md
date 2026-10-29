@@ -1,5 +1,5 @@
 # SmartBuild AI
-###AI-based construction safety monitoring using computer vision and PPE detection
+AI-based construction safety monitoring using computer vision and PPE detection
 
 **Making construction sites smarter, safer, and more reliable with AI.**
 
